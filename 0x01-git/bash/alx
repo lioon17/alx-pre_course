@@ -4,11 +4,11 @@ echo "ALX School"
 echo "ALX school is so cool! " 
 #!/bin/bash
 echo "ALX school is so cool! "
-=======
+
 echo "ALX school" 
 #!/bin/bash
 echo "ALX school"
->>>>>>> parent of a8a934a... resolve2
+
 
 
 
